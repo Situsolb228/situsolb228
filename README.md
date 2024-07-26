@@ -1,12 +1,12 @@
 # BandarQQ
 
-Selamat datang di repositori **BandarQQ**! Proyek ini bertujuan untuk menyediakan platform permainan BandarQQ online yang aman, andal, dan menyenangkan.
+Selamat datang di repositori **[BandarQQ](https://moorish-american.com)**! Proyek ini bertujuan untuk menyediakan platform permainan bandarqq online yang aman, andal, dan menyenangkan.
 
 ## Fitur
 
 - **Keamanan Terjamin**: Kami menggunakan enkripsi terkini untuk melindungi data Anda.
 - **Antarmuka Pengguna yang Ramah**: Desain yang intuitif untuk kemudahan navigasi.
-- **Banyak Pilihan Permainan**: Nikmati berbagai variasi permainan BandarQQ.
+- **Banyak Pilihan Permainan**: Nikmati berbagai variasi permainan bandarqq.
 - **Dukungan Pelanggan 24/7**: Tim kami siap membantu Anda kapan saja.
 
 ## Instalasi
@@ -31,11 +31,11 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lok
 
 ## Penggunaan
 
-Setelah menginstal, Anda dapat mengakses platform BandarQQ di browser Anda dengan mengunjungi `http://localhost:3000`. Ikuti panduan pengguna untuk memulai permainan dan menikmati berbagai fitur yang tersedia.
+Setelah menginstal, Anda dapat mengakses platform bandarqq di browser Anda dengan mengunjungi `http://localhost:3000`. Ikuti panduan pengguna untuk memulai permainan dan menikmati berbagai fitur yang tersedia.
 
 ## Panduan Pengguna
 
-Untuk informasi lebih lanjut tentang cara menggunakan platform BandarQQ, kunjungi [Panduan Pengguna](https://moorish-american.com).
+Untuk informasi lebih lanjut tentang cara menggunakan platform bandarqq, kunjungi [Panduan Pengguna]([https://www.example.com](https://situsolb228.blogspot.com/2024/07/menguasai-bandarqq-dan-dominoqq.html)).
 
 ## Kontribusi
 
@@ -47,7 +47,7 @@ Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untu
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau memerlukan dukungan, jangan ragu untuk menghubungi kami melalui di [situs web kami](https://moorish-american.com).
+Jika Anda memiliki pertanyaan atau memerlukan dukungan, jangan ragu untuk menghubungi kami melalui [email@example.com](mailto:email@example.com) atau kunjungi [situs web kami](https://www.example.com).
 
 ---
 
